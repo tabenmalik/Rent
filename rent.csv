@@ -139,3 +139,13 @@ Date,Name,Availability,Beds,Baths,Sqft,Rent
 2023-02-04 23:31:02.798931,B4,Contact for Availability,2,2,"1,300",Call for details
 2023-02-04 23:31:02.799247,B5,Contact for Availability,2,2,"1,059",Call for details
 2023-02-04 23:31:02.799599,B6,4 Available,2,2,"1,295-1,382","$2,405-$3,540"
+2023-02-05 00:31:02.320059,A1,6 Available,1,1,589,"$1,475-$2,235"
+2023-02-05 00:31:02.320411,A1A,2 Available,1,1,589-634,"$1,455-$2,335"
+2023-02-05 00:31:02.320748,A2,4 Available,1,1,688-701,"$1,565-$2,310"
+2023-02-05 00:31:02.321074,A3,4 Available,1,1,864-947,"$1,790-$3,447"
+2023-02-05 00:31:02.321403,A4,2 Available,1,1,888-946,"$1,915-$3,322"
+2023-02-05 00:31:02.321695,B2,Contact for Availability,2,2,"1,233",Call for details
+2023-02-05 00:31:02.321985,B3,Contact for Availability,2,2,"1,157",Call for details
+2023-02-05 00:31:02.322279,B4,Contact for Availability,2,2,"1,300",Call for details
+2023-02-05 00:31:02.322567,B5,Contact for Availability,2,2,"1,059",Call for details
+2023-02-05 00:31:02.322890,B6,4 Available,2,2,"1,295-1,382","$2,405-$3,540"
