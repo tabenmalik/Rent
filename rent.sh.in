@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd {{ working_dir }}
+
+docker run --rm -v $(pwd):/app -v /etc/localtime:/etc/localtime:ro rent python scrape.py -a -o rent.csv &>>  log.txt
+
+git add rent.csv &>> log.txt
+git commit -m "Rent `date`" &>> log.txt
+git push &>> log.txt
