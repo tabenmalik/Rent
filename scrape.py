@@ -13,15 +13,12 @@ def create_arg_parser():
 
     parser.add_argument('-o', '--output')
 
-    # TODO: mutually exclusive
-    parser.add_argument('-a', '--append')
+    parser.add_argument('-a', '--append', action="store_true")
 
     return parser
 
 
 def get_floorplans():
-    today = dt.date.today().strftime('%Y-%m-%d')
-
     response = requests.get('https://www.ellaparkside.com/floorplans')
     if response.status_code != 200:
         return None
@@ -61,7 +58,7 @@ def get_floorplans():
             fp_rent += fp_rent_span.contents[-2].strip()
             
         floor_plans.append({
-            'Date': today,
+            'Date': str(dt.datetime.now()),
             'Name': fp_name, 
             'Availability': fp_availability, 
             'Beds': fp_beds, 
@@ -98,6 +95,8 @@ def main(argv=None):
 
     with outstream(args.output, mode=mode, newline='') as rent_csv:
         csvwriter = csv.DictWriter(rent_csv, fieldnames=floor_plans[0].keys())
+        if mode == 'w':
+            csvwriter.writeheader()
         csvwriter.writerows(floor_plans)
 
 

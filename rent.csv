@@ -1,41 +1,51 @@
 Date,Name,Availability,Beds,Baths,Sqft,Rent
-2023-01-29,A1,7 Available,1,1,589,"$1,470-$2,235"
-2023-01-29,A1A,1 Available,1,1,589,"$1,450-$2,128"
-2023-01-29,A2,8 Available,1,1,688-701,"$1,560-$2,482"
-2023-01-29,A3,4 Available,1,1,864-947,"$1,820-$3,504"
-2023-01-29,A4,2 Available,1,1,888-946,"$1,990-$3,372"
-2023-01-29,B2,Contact for Availability,2,2,"1,233",Call for details
-2023-01-29,B3,Contact for Availability,2,2,"1,157",Call for details
-2023-01-29,B4,Contact for Availability,2,2,"1,300",Call for details
-2023-01-29,B5,Contact for Availability,2,2,"1,059",Call for details
-2023-01-29,B6,3 Available,2,2,"1,295-1,382","$2,445-$4,048"
-2023-01-31,A1,7 Available,1,1,589,"$1,475-$2,235"
-2023-01-31,A1A,1 Available,1,1,589,"$1,450-$2,128"
-2023-01-31,A2,8 Available,1,1,688-701,"$1,565-$2,389"
-2023-01-31,A3,4 Available,1,1,864-947,"$1,820-$3,507"
-2023-01-31,A4,2 Available,1,1,888-946,"$1,970-$3,372"
-2023-01-31,B2,Contact for Availability,2,2,"1,233",Call for details
-2023-01-31,B3,Contact for Availability,2,2,"1,157",Call for details
-2023-01-31,B4,Contact for Availability,2,2,"1,300",Call for details
-2023-01-31,B5,Contact for Availability,2,2,"1,059",Call for details
-2023-01-31,B6,3 Available,2,2,"1,295-1,382","$2,435-$3,482"
-2023-02-01,A1,7 Available,1,1,589,"$1,470-$2,235"
-2023-02-01,A1A,2 Available,1,1,589-634,"$1,445-$2,335"
-2023-02-01,A2,8 Available,1,1,688-701,"$1,560-$2,391"
-2023-02-01,A3,4 Available,1,1,864-947,"$1,820-$3,500"
-2023-02-01,A4,2 Available,1,1,888-946,"$1,960-$3,372"
-2023-02-01,B2,Contact for Availability,2,2,"1,233",Call for details
-2023-02-01,B3,Contact for Availability,2,2,"1,157",Call for details
-2023-02-01,B4,Contact for Availability,2,2,"1,300",Call for details
-2023-02-01,B5,Contact for Availability,2,2,"1,059",Call for details
-2023-02-01,B6,4 Available,2,2,"1,295-1,382","$2,405-$3,540"
-2023-02-02,A1,7 Available,1,1,589,"$1,470-$2,235"
-2023-02-02,A1A,2 Available,1,1,589-634,"$1,445-$2,335"
-2023-02-02,A2,6 Available,1,1,688-701,"$1,560-$2,391"
-2023-02-02,A3,4 Available,1,1,864-947,"$1,820-$3,497"
-2023-02-02,A4,2 Available,1,1,888-946,"$1,955-$3,372"
-2023-02-02,B2,Contact for Availability,2,2,"1,233",Call for details
-2023-02-02,B3,Contact for Availability,2,2,"1,157",Call for details
-2023-02-02,B4,Contact for Availability,2,2,"1,300",Call for details
-2023-02-02,B5,Contact for Availability,2,2,"1,059",Call for details
-2023-02-02,B6,4 Available,2,2,"1,295-1,382","$2,405-$3,540"
+2023-01-29 12:00:00.000000,A1,7 Available,1,1,589,"$1,470-$2,235"
+2023-01-29 12:00:00.000000,A1A,1 Available,1,1,589,"$1,450-$2,128"
+2023-01-29 12:00:00.000000,A2,8 Available,1,1,688-701,"$1,560-$2,482"
+2023-01-29 12:00:00.000000,A3,4 Available,1,1,864-947,"$1,820-$3,504"
+2023-01-29 12:00:00.000000,A4,2 Available,1,1,888-946,"$1,990-$3,372"
+2023-01-29 12:00:00.000000,B2,Contact for Availability,2,2,"1,233",Call for details
+2023-01-29 12:00:00.000000,B3,Contact for Availability,2,2,"1,157",Call for details
+2023-01-29 12:00:00.000000,B4,Contact for Availability,2,2,"1,300",Call for details
+2023-01-29 12:00:00.000000,B5,Contact for Availability,2,2,"1,059",Call for details
+2023-01-29 12:00:00.000000,B6,3 Available,2,2,"1,295-1,382","$2,445-$4,048"
+2023-01-31 12:00:00.000000,A1,7 Available,1,1,589,"$1,475-$2,235"
+2023-01-31 12:00:00.000000,A1A,1 Available,1,1,589,"$1,450-$2,128"
+2023-01-31 12:00:00.000000,A2,8 Available,1,1,688-701,"$1,565-$2,389"
+2023-01-31 12:00:00.000000,A3,4 Available,1,1,864-947,"$1,820-$3,507"
+2023-01-31 12:00:00.000000,A4,2 Available,1,1,888-946,"$1,970-$3,372"
+2023-01-31 12:00:00.000000,B2,Contact for Availability,2,2,"1,233",Call for details
+2023-01-31 12:00:00.000000,B3,Contact for Availability,2,2,"1,157",Call for details
+2023-01-31 12:00:00.000000,B4,Contact for Availability,2,2,"1,300",Call for details
+2023-01-31 12:00:00.000000,B5,Contact for Availability,2,2,"1,059",Call for details
+2023-01-31 12:00:00.000000,B6,3 Available,2,2,"1,295-1,382","$2,435-$3,482"
+2023-02-01 12:00:00.000000,A1,7 Available,1,1,589,"$1,470-$2,235"
+2023-02-01 12:00:00.000000,A1A,2 Available,1,1,589-634,"$1,445-$2,335"
+2023-02-01 12:00:00.000000,A2,8 Available,1,1,688-701,"$1,560-$2,391"
+2023-02-01 12:00:00.000000,A3,4 Available,1,1,864-947,"$1,820-$3,500"
+2023-02-01 12:00:00.000000,A4,2 Available,1,1,888-946,"$1,960-$3,372"
+2023-02-01 12:00:00.000000,B2,Contact for Availability,2,2,"1,233",Call for details
+2023-02-01 12:00:00.000000,B3,Contact for Availability,2,2,"1,157",Call for details
+2023-02-01 12:00:00.000000,B4,Contact for Availability,2,2,"1,300",Call for details
+2023-02-01 12:00:00.000000,B5,Contact for Availability,2,2,"1,059",Call for details
+2023-02-01 12:00:00.000000,B6,4 Available,2,2,"1,295-1,382","$2,405-$3,540"
+2023-02-02 12:00:00.000000,A1,7 Available,1,1,589,"$1,470-$2,235"
+2023-02-02 12:00:00.000000,A1A,2 Available,1,1,589-634,"$1,445-$2,335"
+2023-02-02 12:00:00.000000,A2,6 Available,1,1,688-701,"$1,560-$2,391"
+2023-02-02 12:00:00.000000,A3,4 Available,1,1,864-947,"$1,820-$3,497"
+2023-02-02 12:00:00.000000,A4,2 Available,1,1,888-946,"$1,955-$3,372"
+2023-02-02 12:00:00.000000,B2,Contact for Availability,2,2,"1,233",Call for details
+2023-02-02 12:00:00.000000,B3,Contact for Availability,2,2,"1,157",Call for details
+2023-02-02 12:00:00.000000,B4,Contact for Availability,2,2,"1,300",Call for details
+2023-02-02 12:00:00.000000,B5,Contact for Availability,2,2,"1,059",Call for details
+2023-02-02 12:00:00.000000,B6,4 Available,2,2,"1,295-1,382","$2,405-$3,540"
+2023-02-04 12:00:00.000000,A1,6 Available,1,1,589,"$1,475-$2,235"
+2023-02-04 12:00:00.000000,A1A,2 Available,1,1,589-634,"$1,455-$2,335"
+2023-02-04 12:00:00.000000,A2,4 Available,1,1,688-701,"$1,565-$2,310"
+2023-02-04 12:00:00.000000,A3,4 Available,1,1,864-947,"$1,790-$3,447"
+2023-02-04 12:00:00.000000,A4,2 Available,1,1,888-946,"$1,915-$3,322"
+2023-02-04 12:00:00.000000,B2,Contact for Availability,2,2,"1,233",Call for details
+2023-02-04 12:00:00.000000,B3,Contact for Availability,2,2,"1,157",Call for details
+2023-02-04 12:00:00.000000,B4,Contact for Availability,2,2,"1,300",Call for details
+2023-02-04 12:00:00.000000,B5,Contact for Availability,2,2,"1,059",Call for details
+2023-02-04 12:00:00.000000,B6,4 Available,2,2,"1,295-1,382","$2,405-$3,540"
